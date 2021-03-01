@@ -1,0 +1,5 @@
+mysql:
+    server: DESKTOP-4FBGLK1
+    username: pythonuser
+    password: pythonuser
+    database: Survey_Sample_A19
