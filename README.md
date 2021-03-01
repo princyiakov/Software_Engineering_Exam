@@ -1,5 +1,5 @@
 # Software_Engineering_Exam
-
+# This Repository is dedicated to my software engineering exam in college written in python
 ## We are trying to replicate the  “always fresh” data policy in the view vw_AllSurveyData.
 
 - Here I am trying to replicate the function dbo.fn_GetAllSurveyDataSQL which fetches the entire survey data and dbo.trg_refreshSurveyView which creates a view and keeps it updated on every create, update or insert .
